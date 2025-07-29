@@ -3,6 +3,7 @@
 A centralized and intelligent web-based platform to simplify and modernize the audit process. Built using PHP, MySQL, and JavaScript, AuditPlus allows organizations to conduct, manage, and track audits across various sectors from a single interface.
 
 🚀 Features
+
 📊 Centralized audit dashboard
 Perform audits for multiple sectors without switching systems.
 
@@ -22,6 +23,7 @@ View and compare audit results from previous sessions.
 Clean, responsive UI using HTML, CSS, and Bootstrap.
 
 🛠️ Tech Stack
+
 🔙 Backend
 PHP (Server-side scripting)
 
@@ -37,6 +39,7 @@ JavaScript (Vanilla)
 Bootstrap 4+
 
 🧰 Prerequisites
+
 Before you begin, ensure you have the following installed:
 
 PHP 7.x+
