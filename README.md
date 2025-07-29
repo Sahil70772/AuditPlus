@@ -27,20 +27,27 @@ Clean, responsive UI using HTML, CSS, and Bootstrap.
 🔙 Backend :
 
 PHP (Server-side scripting)
+
 MySQL (Relational Database)
+
 XAMPP (Local server)
 
 🌐 Frontend :
 
 HTML5 / CSS3
+
 JavaScript (Vanilla)
+
 Bootstrap 4+
 
 🧰 Prerequisites :
 
 Before you begin, ensure you have the following installed:
+
 PHP 7.x+
+
 MySQL or XAMPP/WAMP server
+
 A browser (Chrome/Firefox)
 
 A code editor like VS Code or Sublime Text
